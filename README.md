@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn install`
+
+yarn install is used to install all dependencies for a project.
+This is most commonly used when you have just checked out code for a project, or when another developer on the project has added a new dependency that you need to pick up.
+
 ### `yarn start`
 
 Runs the app in the development mode.\
